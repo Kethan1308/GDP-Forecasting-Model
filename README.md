@@ -124,7 +124,7 @@ Example output:
 * Actual GDP 2023: **$3.73 Trillion**
 * Predicted GDP 2023
 * MAPE
-* Accuracy %
+* Accuracy :99.54%
 
 ---
 
